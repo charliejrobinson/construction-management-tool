@@ -1,5 +1,5 @@
-# Computing project coursework
-Computing Project Coursework
+# Construction management tool
+A tool to schedule tasks for construction built by Charlie Robinson.
 
 ## Installing
 Unzip directory and then
