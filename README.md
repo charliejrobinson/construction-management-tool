@@ -1,3 +1,0 @@
-# construction-management-tool
-
-Hello
